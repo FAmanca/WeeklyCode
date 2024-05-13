@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\bin\Debug\net7.0\keliling kolam.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\bin\Debug\net7.0\keliling kolam.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\bin\Debug\net7.0\keliling kolam.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\bin\Debug\net7.0\keliling kolam.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\bin\Debug\net7.0\keliling kolam.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\keliling kolam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\keliling kolam.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\keliling kolam.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\keliling kolam.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\keliling kolam.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\refint\keliling kolam.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\keliling kolam.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\keliling kolam.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\keliling kolam\obj\Debug\net7.0\ref\keliling kolam.dll

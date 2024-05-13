@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\bin\Debug\net7.0\TuruBasedGame Training.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\bin\Debug\net7.0\TuruBasedGame Training.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\bin\Debug\net7.0\TuruBasedGame Training.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\bin\Debug\net7.0\TuruBasedGame Training.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\bin\Debug\net7.0\TuruBasedGame Training.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\TuruBasedGame Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\TuruBasedGame Training.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\TuruBasedGame Training.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\TuruBasedGame Training.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\TuruBasedGame Training.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\refint\TuruBasedGame Training.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\TuruBasedGame Training.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\TuruBasedGame Training.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\OOP\TuruBasedGame Training\obj\Debug\net7.0\ref\TuruBasedGame Training.dll

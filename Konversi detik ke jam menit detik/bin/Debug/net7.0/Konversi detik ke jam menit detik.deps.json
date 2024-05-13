@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Konversi detik ke jam menit detik/1.0.0": {
+        "runtime": {
+          "Konversi detik ke jam menit detik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konversi detik ke jam menit detik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

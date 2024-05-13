@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\bin\Debug\net7.0\Luas Trapesium.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\bin\Debug\net7.0\Luas Trapesium.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\bin\Debug\net7.0\Luas Trapesium.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\bin\Debug\net7.0\Luas Trapesium.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\bin\Debug\net7.0\Luas Trapesium.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\Luas Trapesium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\Luas Trapesium.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\Luas Trapesium.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\Luas Trapesium.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\Luas Trapesium.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\refint\Luas Trapesium.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\Luas Trapesium.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\Luas Trapesium.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Trapesium\obj\Debug\net7.0\ref\Luas Trapesium.dll

@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\bin\Debug\net7.0\Percabangan p=x+y.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\bin\Debug\net7.0\Percabangan p=x+y.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\bin\Debug\net7.0\Percabangan p=x+y.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\bin\Debug\net7.0\Percabangan p=x+y.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\bin\Debug\net7.0\Percabangan p=x+y.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\Percabangan p=x+y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\Percabangan p=x+y.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\Percabangan p=x+y.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\Percabangan p=x+y.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\Percabangan p=x+y.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\refint\Percabangan p=x+y.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\Percabangan p=x+y.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\Percabangan p=x+y.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan p=x+y\obj\Debug\net7.0\ref\Percabangan p=x+y.dll

@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\bin\Debug\net7.0\loop angka for.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\bin\Debug\net7.0\loop angka for.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\bin\Debug\net7.0\loop angka for.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\bin\Debug\net7.0\loop angka for.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\bin\Debug\net7.0\loop angka for.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\loop angka for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\loop angka for.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\loop angka for.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\loop angka for.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\loop angka for.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\refint\loop angka for.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\loop angka for.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\loop angka for.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka for\obj\Debug\net7.0\ref\loop angka for.dll

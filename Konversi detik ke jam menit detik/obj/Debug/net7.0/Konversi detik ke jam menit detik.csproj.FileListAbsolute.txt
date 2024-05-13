@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\bin\Debug\net7.0\Konversi detik ke jam menit detik.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\bin\Debug\net7.0\Konversi detik ke jam menit detik.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\bin\Debug\net7.0\Konversi detik ke jam menit detik.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\bin\Debug\net7.0\Konversi detik ke jam menit detik.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\bin\Debug\net7.0\Konversi detik ke jam menit detik.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\Konversi detik ke jam menit detik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\Konversi detik ke jam menit detik.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\Konversi detik ke jam menit detik.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\Konversi detik ke jam menit detik.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\Konversi detik ke jam menit detik.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\refint\Konversi detik ke jam menit detik.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\Konversi detik ke jam menit detik.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\Konversi detik ke jam menit detik.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi detik ke jam menit detik\obj\Debug\net7.0\ref\Konversi detik ke jam menit detik.dll

@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\bin\Debug\net7.0\no 23.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\bin\Debug\net7.0\no 23.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\bin\Debug\net7.0\no 23.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\bin\Debug\net7.0\no 23.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\bin\Debug\net7.0\no 23.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\no 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\no 23.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\no 23.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\no 23.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\no 23.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\refint\no 23.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\no 23.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\no 23.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\no 23\obj\Debug\net7.0\ref\no 23.dll

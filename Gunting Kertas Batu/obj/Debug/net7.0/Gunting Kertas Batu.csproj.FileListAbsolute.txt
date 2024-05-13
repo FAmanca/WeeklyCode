@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\Gunting Kertas Batu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\Gunting Kertas Batu.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\Gunting Kertas Batu.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\Gunting Kertas Batu.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\bin\Debug\net7.0\Gunting Kertas Batu.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\bin\Debug\net7.0\Gunting Kertas Batu.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\bin\Debug\net7.0\Gunting Kertas Batu.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\bin\Debug\net7.0\Gunting Kertas Batu.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\bin\Debug\net7.0\Gunting Kertas Batu.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\Gunting Kertas Batu.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\refint\Gunting Kertas Batu.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\Gunting Kertas Batu.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\Gunting Kertas Batu.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Gunting Kertas Batu\obj\Debug\net7.0\ref\Gunting Kertas Batu.dll

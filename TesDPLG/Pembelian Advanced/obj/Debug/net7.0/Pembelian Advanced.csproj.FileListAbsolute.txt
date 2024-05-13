@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\bin\Debug\net7.0\Pembelian Advanced.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\bin\Debug\net7.0\Pembelian Advanced.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\bin\Debug\net7.0\Pembelian Advanced.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\bin\Debug\net7.0\Pembelian Advanced.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\bin\Debug\net7.0\Pembelian Advanced.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\Pembelian Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\Pembelian Advanced.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\Pembelian Advanced.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\Pembelian Advanced.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\Pembelian Advanced.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\refint\Pembelian Advanced.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\Pembelian Advanced.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\Pembelian Advanced.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\TesDPLG\Pembelian Advanced\obj\Debug\net7.0\ref\Pembelian Advanced.dll

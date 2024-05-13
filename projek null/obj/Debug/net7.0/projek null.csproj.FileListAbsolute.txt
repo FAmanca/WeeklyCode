@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\projek null.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\projek null.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\projek null.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\projek null.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\bin\Debug\net7.0\projek null.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\bin\Debug\net7.0\projek null.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\bin\Debug\net7.0\projek null.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\bin\Debug\net7.0\projek null.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\bin\Debug\net7.0\projek null.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\projek null.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\refint\projek null.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\projek null.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\projek null.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\projek null\obj\Debug\net7.0\ref\projek null.dll

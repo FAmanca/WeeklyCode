@@ -1,0 +1,28 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\bin\Debug\net7.0\Function.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\bin\Debug\net7.0\Function.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\bin\Debug\net7.0\Function.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\bin\Debug\net7.0\Function.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\bin\Debug\net7.0\Function.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\Function.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\Function.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\Function.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\refint\Function.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\Function.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\Function.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Function\obj\Debug\net7.0\ref\Function.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\bin\Debug\net7.0\Function.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\bin\Debug\net7.0\Function.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\bin\Debug\net7.0\Function.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\bin\Debug\net7.0\Function.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\bin\Debug\net7.0\Function.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\Function.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\Function.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\Function.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\refint\Function.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\Function.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\Function.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program function\Function 1\obj\Debug\net7.0\ref\Function.dll

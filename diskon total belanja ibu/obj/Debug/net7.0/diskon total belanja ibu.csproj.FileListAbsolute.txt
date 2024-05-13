@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\bin\Debug\net7.0\diskon total belanja ibu.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\bin\Debug\net7.0\diskon total belanja ibu.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\bin\Debug\net7.0\diskon total belanja ibu.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\bin\Debug\net7.0\diskon total belanja ibu.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\bin\Debug\net7.0\diskon total belanja ibu.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\diskon total belanja ibu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\diskon total belanja ibu.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\diskon total belanja ibu.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\diskon total belanja ibu.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\diskon total belanja ibu.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\refint\diskon total belanja ibu.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\diskon total belanja ibu.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\diskon total belanja ibu.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\diskon total belanja ibu\obj\Debug\net7.0\ref\diskon total belanja ibu.dll

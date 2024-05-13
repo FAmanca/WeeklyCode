@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\bin\Debug\net7.0\Cari A.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\bin\Debug\net7.0\Cari A.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\bin\Debug\net7.0\Cari A.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\bin\Debug\net7.0\Cari A.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\bin\Debug\net7.0\Cari A.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\Cari A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\Cari A.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\Cari A.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\Cari A.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\Cari A.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\refint\Cari A.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\Cari A.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\Cari A.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Cari A\obj\Debug\net7.0\ref\Cari A.dll

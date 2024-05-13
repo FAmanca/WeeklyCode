@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\bin\Debug\net7.0\loop angka do while.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\bin\Debug\net7.0\loop angka do while.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\bin\Debug\net7.0\loop angka do while.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\bin\Debug\net7.0\loop angka do while.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\bin\Debug\net7.0\loop angka do while.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\loop angka do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\loop angka do while.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\loop angka do while.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\loop angka do while.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\loop angka do while.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\refint\loop angka do while.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\loop angka do while.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\loop angka do while.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\loop angka do while\obj\Debug\net7.0\ref\loop angka do while.dll

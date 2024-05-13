@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "nested loop 123 123/1.0.0": {
+        "runtime": {
+          "nested loop 123 123.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nested loop 123 123/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

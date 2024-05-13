@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\bin\Debug\net7.0\jam menit detik ke detik.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\bin\Debug\net7.0\jam menit detik ke detik.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\bin\Debug\net7.0\jam menit detik ke detik.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\bin\Debug\net7.0\jam menit detik ke detik.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\bin\Debug\net7.0\jam menit detik ke detik.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\jam menit detik ke detik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\jam menit detik ke detik.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\jam menit detik ke detik.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\jam menit detik ke detik.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\jam menit detik ke detik.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\refint\jam menit detik ke detik.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\jam menit detik ke detik.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\jam menit detik ke detik.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\jam menit detik ke detik\obj\Debug\net7.0\ref\jam menit detik ke detik.dll

@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\bin\Debug\net7.0\Nested loop (C) for.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\bin\Debug\net7.0\Nested loop (C) for.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\bin\Debug\net7.0\Nested loop (C) for.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\bin\Debug\net7.0\Nested loop (C) for.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\bin\Debug\net7.0\Nested loop (C) for.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\Nested loop (C) for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\Nested loop (C) for.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\Nested loop (C) for.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\Nested loop (C) for.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\Nested loop (C) for.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\refint\Nested loop (C) for.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\Nested loop (C) for.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\Nested loop (C) for.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Nested loop (C) for\obj\Debug\net7.0\ref\Nested loop (C) for.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Konversi Suhu Ke Farenheit/1.0.0": {
+        "runtime": {
+          "Konversi Suhu Ke Farenheit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konversi Suhu Ke Farenheit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

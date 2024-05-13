@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Percabangan p=x+y/1.0.0": {
+        "runtime": {
+          "Percabangan p=x+y.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Percabangan p=x+y/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

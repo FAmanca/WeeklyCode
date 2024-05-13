@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Projek 1_Luas Persegi/1.0.0": {
+        "runtime": {
+          "Projek 1_Luas Persegi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projek 1_Luas Persegi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

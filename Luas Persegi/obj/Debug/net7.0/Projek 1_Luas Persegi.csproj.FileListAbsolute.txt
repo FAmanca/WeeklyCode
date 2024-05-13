@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\bin\Debug\net7.0\Projek 1_Luas Persegi.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\bin\Debug\net7.0\Projek 1_Luas Persegi.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\bin\Debug\net7.0\Projek 1_Luas Persegi.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\bin\Debug\net7.0\Projek 1_Luas Persegi.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\bin\Debug\net7.0\Projek 1_Luas Persegi.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\Projek 1_Luas Persegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\Projek 1_Luas Persegi.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\Projek 1_Luas Persegi.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\Projek 1_Luas Persegi.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\Projek 1_Luas Persegi.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\refint\Projek 1_Luas Persegi.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\Projek 1_Luas Persegi.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\Projek 1_Luas Persegi.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Luas Persegi\obj\Debug\net7.0\ref\Projek 1_Luas Persegi.dll

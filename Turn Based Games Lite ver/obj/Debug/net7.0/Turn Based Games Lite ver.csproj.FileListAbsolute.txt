@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\bin\Debug\net7.0\Turn Based Games Lite ver.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\bin\Debug\net7.0\Turn Based Games Lite ver.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\bin\Debug\net7.0\Turn Based Games Lite ver.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\bin\Debug\net7.0\Turn Based Games Lite ver.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\bin\Debug\net7.0\Turn Based Games Lite ver.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\Turn Based Games Lite ver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\Turn Based Games Lite ver.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\Turn Based Games Lite ver.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\Turn Based Games Lite ver.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\Turn Based Games Lite ver.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\refint\Turn Based Games Lite ver.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\Turn Based Games Lite ver.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\Turn Based Games Lite ver.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Turn Based Games Lite ver\obj\Debug\net7.0\ref\Turn Based Games Lite ver.dll

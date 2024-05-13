@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\bin\Debug\net7.0\Cafe.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\bin\Debug\net7.0\Cafe.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\bin\Debug\net7.0\Cafe.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\bin\Debug\net7.0\Cafe.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\bin\Debug\net7.0\Cafe.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\Cafe.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\Cafe.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\refint\Cafe.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\Cafe.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\Cafe.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Studi Kasus\Cafe\obj\Debug\net7.0\ref\Cafe.dll

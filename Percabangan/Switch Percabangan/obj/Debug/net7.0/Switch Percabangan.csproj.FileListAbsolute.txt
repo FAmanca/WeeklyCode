@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\bin\Debug\net7.0\Switch Percabangan.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\bin\Debug\net7.0\Switch Percabangan.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\bin\Debug\net7.0\Switch Percabangan.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\bin\Debug\net7.0\Switch Percabangan.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\bin\Debug\net7.0\Switch Percabangan.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\Switch Percabangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\Switch Percabangan.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\Switch Percabangan.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\Switch Percabangan.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\Switch Percabangan.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\refint\Switch Percabangan.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\Switch Percabangan.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\Switch Percabangan.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Percabangan\Switch Percabangan\obj\Debug\net7.0\ref\Switch Percabangan.dll

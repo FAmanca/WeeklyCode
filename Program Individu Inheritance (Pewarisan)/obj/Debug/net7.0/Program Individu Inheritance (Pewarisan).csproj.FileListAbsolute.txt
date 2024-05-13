@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\bin\Debug\net7.0\Program Individu Inheritance (Pewarisan).exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\bin\Debug\net7.0\Program Individu Inheritance (Pewarisan).deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\bin\Debug\net7.0\Program Individu Inheritance (Pewarisan).runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\bin\Debug\net7.0\Program Individu Inheritance (Pewarisan).dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\bin\Debug\net7.0\Program Individu Inheritance (Pewarisan).pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\Program Individu Inheritance (Pewarisan).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\Program Individu Inheritance (Pewarisan).AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\Program Individu Inheritance (Pewarisan).AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\Program Individu Inheritance (Pewarisan).csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\Program Individu Inheritance (Pewarisan).dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\refint\Program Individu Inheritance (Pewarisan).dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\Program Individu Inheritance (Pewarisan).pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\Program Individu Inheritance (Pewarisan).genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Program Individu Inheritance (Pewarisan)\obj\Debug\net7.0\ref\Program Individu Inheritance (Pewarisan).dll

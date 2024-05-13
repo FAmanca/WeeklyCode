@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch Percabangan", "Switch Percabangan.csproj", "{60F938D2-B84D-4D67-9DF7-584ABC6970C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F938D2-B84D-4D67-9DF7-584ABC6970C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F938D2-B84D-4D67-9DF7-584ABC6970C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F938D2-B84D-4D67-9DF7-584ABC6970C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F938D2-B84D-4D67-9DF7-584ABC6970C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD10B169-37FE-4D22-BEFF-7085E1C8046C}
+	EndGlobalSection
+EndGlobal

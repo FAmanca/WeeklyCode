@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\Projek 1 Luas Segitiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\Projek 1 Luas Segitiga.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\Projek 1 Luas Segitiga.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\Projek 1 Luas Segitiga.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\bin\Debug\net7.0\Projek 1 Luas Segitiga.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\bin\Debug\net7.0\Projek 1 Luas Segitiga.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\bin\Debug\net7.0\Projek 1 Luas Segitiga.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\bin\Debug\net7.0\Projek 1 Luas Segitiga.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\bin\Debug\net7.0\Projek 1 Luas Segitiga.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\Projek 1 Luas Segitiga.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\refint\Projek 1 Luas Segitiga.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\Projek 1 Luas Segitiga.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\Projek 1 Luas Segitiga.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Projek 1 Luas Segitiga\obj\Debug\net7.0\ref\Projek 1 Luas Segitiga.dll

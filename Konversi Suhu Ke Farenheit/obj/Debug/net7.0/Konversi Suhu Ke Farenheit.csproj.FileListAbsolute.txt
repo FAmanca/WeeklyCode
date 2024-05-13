@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\bin\Debug\net7.0\Konversi Suhu Ke Farenheit.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\bin\Debug\net7.0\Konversi Suhu Ke Farenheit.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\bin\Debug\net7.0\Konversi Suhu Ke Farenheit.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\bin\Debug\net7.0\Konversi Suhu Ke Farenheit.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\bin\Debug\net7.0\Konversi Suhu Ke Farenheit.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\Konversi Suhu Ke Farenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\Konversi Suhu Ke Farenheit.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\Konversi Suhu Ke Farenheit.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\Konversi Suhu Ke Farenheit.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\Konversi Suhu Ke Farenheit.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\refint\Konversi Suhu Ke Farenheit.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\Konversi Suhu Ke Farenheit.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\Konversi Suhu Ke Farenheit.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Konversi Suhu Ke Farenheit\obj\Debug\net7.0\ref\Konversi Suhu Ke Farenheit.dll

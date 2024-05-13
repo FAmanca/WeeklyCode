@@ -1,0 +1,14 @@
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\bin\Debug\net7.0\Tes 2.exe
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\bin\Debug\net7.0\Tes 2.deps.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\bin\Debug\net7.0\Tes 2.runtimeconfig.json
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\bin\Debug\net7.0\Tes 2.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\bin\Debug\net7.0\Tes 2.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\Tes 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\Tes 2.AssemblyInfoInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\Tes 2.AssemblyInfo.cs
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\Tes 2.csproj.CoreCompileInputs.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\Tes 2.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\refint\Tes 2.dll
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\Tes 2.pdb
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\Tes 2.genruntimeconfig.cache
+C:\Users\taupi\OneDrive\Desktop\FADLY X PPLG 2\Tes 2\obj\Debug\net7.0\ref\Tes 2.dll
